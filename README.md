@@ -52,7 +52,7 @@ Currently, I’m:
 
 ### 📌 Featured Projects
 
-- 🎧 [**Music Recommendation System**](https://github.com/montanezm1/music-rec-system)  
+- 🎧 [**Music Recommendation System**](https://github.com/montanezm1/music_rec_system)  
   A personalized engine using ML and Streamlit for real-time music album suggestions
 
 - 🍽️ [**UMass Food Finder**](https://github.com/montanezm1/umass-food-finder)  
