@@ -13,7 +13,7 @@ I'm a Computer Science student at the University of Massachusetts Amherst with a
 Currently, I’m:
 - 🤖 **AI/ML Fellow** at Break Through Tech, working on projects with guidance from Cornell Tech  
 - 🧠 **Undergrad Researcher** using ML to improve stroke prediction with Python, TensorFlow, and Scikit-Learn  
-- 🛠️ Building full-stack apps and tools to help others — like [UMass Food Finder](https://github.com/montanezm1/umass-food-finder) 🍽️
+- 🛠️ Building full-stack apps and tools to help others — like [UMass Food Dashboard](https://github.com/montanezm1/umass-food-dashboard) 🍽️
 
 ---
 
@@ -55,8 +55,8 @@ Currently, I’m:
 - 🎧 [**Music Recommendation System**](https://github.com/montanezm1/music_rec_system)  
   A personalized engine using ML and Streamlit for real-time music album suggestions
 
-- 🍽️ [**UMass Food Finder**](https://github.com/montanezm1/umass-food-finder)  
-  A dining hall search tool built at a 48-hour hackathon using Python, Flask & web scraping
+- 🍽️ [**UMass Food Dashboard**](https://github.com/montanezm1/umass-food-dashboard)  
+  A dining hall search tool with a nutrional dashboard
 
 ---
 
