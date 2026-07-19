@@ -6,17 +6,6 @@
 
 ---
 
-### 🚀 About Me
-
-I'm a Computer Science student at the University of Massachusetts Amherst with a passion for solving real-world problems through **machine learning**, **full-stack development**, and **AI research**. 
-
-Currently, I’m:
-- 🤖 **AI/ML Fellow** at Break Through Tech, working on projects with guidance from Cornell Tech  
-- 🧠 **Undergrad Researcher** using ML to improve stroke prediction with Python, TensorFlow, and Scikit-Learn  
-- 🛠️ Building full-stack apps and tools to help others — like [UMass Food Dashboard](https://github.com/montanezm1/umass-food-dashboard) 🍽️
-
----
-
 ### 🛠️ Tech Stack
 
 #### **Languages**
@@ -50,13 +39,11 @@ Currently, I’m:
 
 ---
 
-### 📌 Featured Projects
-
-- 🎧 [**Music Recommendation System**](https://github.com/montanezm1/music_rec_system)  
-  A personalized engine using ML and Streamlit for real-time music album suggestions
-
-- 🍽️ [**UMass Food Dashboard**](https://github.com/montanezm1/umass-food-dashboard)  
-  A dining hall search tool with a nutrional dashboard
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/montanezm1/montanezm1/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/montanezm1/montanezm1/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/montanezm1/montanezm1/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
